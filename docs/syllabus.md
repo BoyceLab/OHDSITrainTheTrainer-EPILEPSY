@@ -77,7 +77,7 @@ This syllabus is the **master reading & resource guide** for the curriculum. It 
 
 ### Vocabulary / Terminology Experts
 - Module 02 & 03 resources: CDM schema, vocabularies, ETL  
-- Athena & Usagi tutorials  
+- Atlas, Usagi, and other software tutorials  
 - Oncology Extension vocab guides  
 - Vocabulary WG forum threads  
 
