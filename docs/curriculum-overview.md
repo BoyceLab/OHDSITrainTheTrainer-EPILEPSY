@@ -136,27 +136,6 @@ Modules span two days, with oncology-focused examples (e.g. breast/lung cancer c
   - Networking and ongoing community
 
 ---
-
-## MkDocs Site Structure Outline
-The MkDocs site will serve as the training hub, organized as follows:
-
-- **Home Page**
-- **Getting Started**
-  - Prerequisites
-  - Personas & Learning Paths
-  - FAQ
-- **Curriculum Modules**
-  - Module 0–12 (separate pages, with slides, exercises, videos, and resources)
-- **Resources**
-  - Downloads (slides, exercises, cheat sheets)
-  - OHDSI Knowledge Base (Book of OHDSI, YouTube, EHDEN Academy, GitHub, publications)
-  - Glossary
-- **About**
-  - About This Training
-  - Acknowledgments
-  - Contact
-
----
 !!! note "Reference Texts"
     - [Book of OHDSI](https://ohdsi.github.io/TheBookOfOhdsi/)  
     - [OHDSI.org](https://www.ohdsi.org/who-we-are/)  
