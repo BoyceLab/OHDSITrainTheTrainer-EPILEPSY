@@ -1,5 +1,8 @@
 # Module 10 · Capstone Project
 
+!!! info "Program Context"
+    The boot camp culminates with a mini training design and delivery to prove readiness as an OHDSI trainer in oncology.
+
 ## Overview
 Design and present a mini training targeting a real site use-case.
 
