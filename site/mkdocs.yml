@@ -72,8 +72,3 @@ extra:
 
 extra_css:
   - assets/css/custom.css
-
-watch:
-  - docs/assets
-  - docs/assets/css
-
