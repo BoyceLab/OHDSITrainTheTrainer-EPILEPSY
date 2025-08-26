@@ -22,6 +22,7 @@ nav:
   - Getting Started: getting-started.md
   - Personas & Learning Paths: personas.md
   - Curriculum:
+      - Curriculum Overview: curriculum-overview.md    # ← add this line
       - Module 00 · Orientation: modules/module-00-orientation.md
       - Module 01 · Intro to OHDSI/OMOP: modules/module-01-intro-ohdsi.md
       - Module 02 · CDM & Vocabularies: modules/module-02-cdm-vocabularies.md
@@ -41,6 +42,7 @@ nav:
       - Weekly Community Meeting: community/weekly-meeting.md
       - Living FAQ: community/faq.md
   - Resources: resources.md
+
 
 markdown_extensions:
   - meta
