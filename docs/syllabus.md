@@ -10,7 +10,7 @@ This syllabus is the **master reading & resource guide** for the curriculum. It 
 
 ### Module 00 – Orientation
 - Project charter & SOPs (internal)  
-- OHDSI Forum – [Introduce Yourself](https://forums.ohdsi.org/c/introduce-yourself/)  
+- OHDSI Forum – [Introduce Yourself](https://forums.ohdsi.or)  
 - [RWD Guide](https://rwd.guide/) – “Getting Started”  
 
 ### Module 01 – Introduction to OHDSI & OMOP
