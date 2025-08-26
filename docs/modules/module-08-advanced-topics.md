@@ -1,5 +1,8 @@
 # Module 08 · Advanced Topics & Trends
 
+!!! info "Program Context"
+    This module orients trainers to advanced OHDSI capabilities so they can triage requests and direct learners to the right resources.
+
 ## Overview
 Advanced SQL, ML/PLP, oncology extension awareness, FHIR interop, NLP/unstructured.
 
@@ -11,11 +14,12 @@ Advanced SQL, ML/PLP, oncology extension awareness, FHIR interop, NLP/unstructur
 ## Resources
 - HADES: <https://ohdsi.github.io/Hades/>
 - PatientLevelPrediction: <https://ohdsi.github.io/PatientLevelPrediction/>
-- (Oncology WG tag) <https://forums.ohdsi.org/tag/oncology>
+- Oncology WG: <https://forums.ohdsi.org/tag/oncology>
 
 ## Demos (optional)
 - Complex SQL (overlaps, windows)
 - PLP quickstart on de-identified OMOP
 
 ## Takeaways
-- Trainers don’t need to master all areas—just know what’s possible and who/where to ask.
+Trainers don’t need to master everything—just know what’s possible and where to ask.
+
