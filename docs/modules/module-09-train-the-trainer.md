@@ -15,9 +15,15 @@ Adult learning, microteaching, adapting content to audiences, and using this sit
 - Slide & checklist templates *(add links)*
 - Agenda templates (see [Office Hours](../community/office-hours.md), [Weekly Meeting](../community/weekly-meeting.md))
 
+## Key Resources
+- - EXCELERATE Train-the-Trainer: https://github.com/TrainTheTrainer/EXCELERATE-TtT
+- Session 1 example: https://github.com/TrainTheTrainer/EXCELERATE-TtT/blob/master/TtT_session_1.md
+
 ## Exercise
 Microteaching: 3-minute demo (e.g., Atlas concept set basics). Peer feedback.
 
 ## Takeaways
 Empathy + clarity + hands-on = confident learners.
+
+
 
