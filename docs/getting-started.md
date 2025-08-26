@@ -11,6 +11,9 @@ Prepare before Day 1 to get the most from the bootcamp.
     <https://ohdsi.github.io/TheBookOfOhdsi/>
   - Book of OHDSI – *Common Data Model* (CDM overview)  
     <https://ohdsi.github.io/TheBookOfOhdsi/CommonDataModel.html>
+ - **EXCELERATE Train-the-Trainer (source curriculum):**  
+  https://github.com/TrainTheTrainer/EXCELERATE-TtT
+
 - **Community**
   - Create an account on the OHDSI Forum: <https://forums.ohdsi.org/>
   - Browse OHDSI community/workgroups: <https://ohdsi.org/community/>
