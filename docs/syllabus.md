@@ -31,9 +31,26 @@ This is the master syllabus of required/optional readings and tools **by module*
 > These are **augmentations** on top of the module readings.
 
 ### Vocabulary / Terminology Experts
-- **Core:** Module 2 (Book ch.2), Module 3 (Usagi/Athena), Module 4 (DQD unmapped)  
-- **Do:** Build parent/descendant concept sets for breast & lung (include biomarkers like HER2).  
-- **Refs:** Athena help; Oncology Extension tables; RWD Guide (terminology harmonization).
+- **Core Modules:**  
+  - Module 2 (*Book of OHDSI ch.2* – Common Data Model, vocabularies)  
+  - Module 3 (ETL and mapping exercises)  
+  - Module 4 (Data Quality – resolving unmapped concepts)
+- **Tools to Master:**  
+  - **Athena** – vocabulary browser for SNOMED, RxNorm, LOINC, oncology concepts  
+  - **Atlas Concept Sets** – searching, descendant inclusion, set logic  
+  - **Usagi** – semi-automated mapping of local codes to OMOP standard concepts  
+  - **White Rabbit / Rabbit-in-a-Hat** – source data profiling and ETL design
+- **Practical Exercises:**  
+  - Build and validate concept sets for breast and lung cancer (including HER2 and other biomarkers).  
+  - Use Usagi to map local oncology codes to standard concepts.  
+  - Verify concept set integrity using Atlas (check descendants and exclusions).  
+- **Key References:**  
+  - [Athena Browser](https://athena.ohdsi.org/)  
+  - [Atlas Concept Sets](https://ohdsi.github.io/Atlas/#/conceptsets)  
+  - [Usagi GitHub](https://github.com/OHDSI/Usagi)  
+  - [White Rabbit / Rabbit-in-a-Hat](https://github.com/OHDSI/WhiteRabbit)  
+  - [Oncology Extension Documentation](https://ohdsi.github.io/CommonDataModel/oncology.html)
+
 
 ### Statisticians (tool-skeptical / design-focused)
 - **Core:** Module 4 (DQD); Module 5 (Book ch.12, ch.13, ch.19); RWD Guide (bias/confounding)  
