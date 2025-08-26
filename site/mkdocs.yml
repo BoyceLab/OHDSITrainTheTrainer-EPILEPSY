@@ -1,0 +1,85 @@
+site_name: OHDSI Train The Trainer
+site_url: https://BoyceLab.github.io/OHDSITrainTheTrainer
+
+theme:
+  name: material
+  font:
+    text: "EB Garamond"
+  palette:
+    scheme: default
+    primary: custom
+    accent: custom
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.header
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - Personas & Learning Paths: personas.md
+  - Curriculum:
+      - Module 00 · Orientation: modules/module-00-orientation.md
+      - Module 01 · Intro to OHDSI/OMOP: modules/module-01-intro-ohdsi.md
+      - Module 02 · CDM & Vocabularies: modules/module-02-cdm-vocabularies.md
+      - Module 03 · ETL to OMOP: modules/module-03-etl.md
+      - Module 04 · Data Quality: modules/module-04-data-quality.md
+      - Module 05 · Analytics & Observational Epi: modules/module-05-analytics-epi.md
+      - Module 06 · Security & Compliance: modules/module-06-security-compliance.md
+      - Module 07 · Team Building: modules/module-07-team-building.md
+      - Module 08 · Advanced Topics: modules/module-08-advanced-topics.md
+      - Module 09 · Train-the-Trainer Skills: modules/module-09-train-the-trainer.md
+      - Module 10 · Capstone: modules/module-10-capstone.md
+      - Module 11 · Wrap-Up & Next Steps: modules/module-11-wrap-up.md
+      - Module 12 · Refresher: modules/module-12-refresher.md
+  - Community & Support:
+      - Office Hours: community/office-hours.md
+      - Weekly Community Meeting: community/weekly-meeting.md
+      - Living FAQ: community/faq.md
+  - Resources: resources.md
+
+# (OPTIONAL) keep your existing top-level pages if you want them visible in this site too:
+#   - New to RWE? Start Here: free-rwe-resources.md
+#   - ALS TDI OMOP Data Set: als-tdi-omop-data-set.md
+#   - STARDUSTT Approach: stardustt-approach.md
+#   - OMOP/OHDSI Resources: omop-ohdsi-resources.md
+#   - Select Publications: select-publications.md
+#   - Authors: authors.md
+
+markdown_extensions:
+  - meta
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: false
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - search
+
+extra:
+  generator: false
+
+extra_css:
+  - assets/css/custom.css
+
+watch:
+  - docs/assets
+  - docs/assets/css
