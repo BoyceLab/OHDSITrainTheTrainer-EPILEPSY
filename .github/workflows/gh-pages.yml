@@ -1,9 +1,18 @@
+# .github/workflows/gh-pages.yml
 name: Deploy MkDocs
 
 on:
   push:
     branches: [ main ]
   workflow_dispatch:
+
+permissions:
+  contents: write    # <-- needed to push to gh-pages
+  pages: write       # harmless here; future-proof
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
 
 jobs:
   build-deploy:
@@ -20,12 +29,14 @@ jobs:
           python -m pip install --upgrade pip
           pip install mkdocs mkdocs-material pymdown-extensions
 
-      - name: Build site
-        run: mkdocs build --site-dir site
+      - name: Build
+        run: mkdocs build --strict
 
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
           publish_dir: ./site
-
+          user_name: github-actions[bot]
+          user_email: 41898282+github-actions[bot]@users.noreply.github.com
