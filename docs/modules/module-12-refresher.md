@@ -12,4 +12,5 @@
 - Unblock persistent issues
 - Share patterns and solutions
 - Keep trainers current and connected
+- -Consider planning a pre/post knowledge assessment and track knowledge across quarterly updates to identify how long knowledge lasts after initial training, types of targeted refreshers are needed.
 
