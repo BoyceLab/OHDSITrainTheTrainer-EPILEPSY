@@ -17,7 +17,7 @@ Core tables, relationships, standard vs source concepts, and concept hierarchies
 ## Key Resources
 - Athena: <https://athena.ohdsi.org/>
 - Atlas Concept Sets: <https://ohdsi.github.io/Atlas/#/conceptsets>
-- Oncology WG: <https://forums.ohdsi.org/tag/oncology>
+- Oncology Forum Post: <https://forums.ohdsi.org/search?q=oncology>
 
 ## Hands-on (Oncology)
 - Build a **breast cancer** concept set (include descendants)  
