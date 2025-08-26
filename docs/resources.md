@@ -20,8 +20,7 @@
 - **HADES (analytics R packages)**: <https://ohdsi.github.io/Hades/>
 
 ## Oncology
-- OHDSI Oncology WG (forum tag): <https://forums.ohdsi.org/tag/oncology>
-- (Add your oncology extension/site docs if private)
+- **Dr. Asieh Golozar and Large-Scale Observational Cancer Research Informatics Grand Rounds 10/13/22**: <https://www.youtube.com/watch?v=9-wB6e8Op7k>
 
 ## Governance & Privacy
 - OHDSI community guidance (search forum)
