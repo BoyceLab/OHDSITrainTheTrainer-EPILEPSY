@@ -4,9 +4,19 @@
 
 ## Core References
 - **Book of OHDSI** (table of contents): <https://ohdsi.github.io/TheBookOfOhdsi/>
-  - Common Data Model: <https://ohdsi.github.io/TheBookOfOhdsi/CommonDataModel.html>
-  - Estimation: <https://ohdsi.github.io/TheBookOfOhdsi/PopulationLevelEstimation.html>
-  - Prediction: <https://ohdsi.github.io/TheBookOfOhdsi/PatientLevelPrediction.html>
+  - Ch. 1: Journey of OHDSI  
+  - Ch. 2: Common Data Model  
+  - Ch. 4: Data Quality  
+  - Ch. 12: Population-Level Estimation  
+  - Ch. 13: Patient-Level Prediction  
+  - Ch. 14: HADES  
+  - Ch. 15: OHDSI Community  
+  - Ch. 19: Study Steps
+- [OHDSI.org – Who We Are](https://www.ohdsi.org/who-we-are/)
+- [RWD Guide](https://rwd.guide/)
+- [Oncology Extension Documentation](https://ohdsi.github.io/CommonDataModel/oncology.html)
+- Estimation: <https://ohdsi.github.io/TheBookOfOhdsi/PopulationLevelEstimation.html>
+- Prediction: <https://ohdsi.github.io/TheBookOfOhdsi/PatientLevelPrediction.html>
 - **OHDSI Forum**: <https://forums.ohdsi.org/>
 - **OHDSI YouTube**: <https://www.youtube.com/@OHDSI>
 - **EHDEN Academy**: <https://academy.ehden.eu/>
@@ -29,3 +39,8 @@
 ## Community & Events
 - OHDSI Workgroups: <https://www.ohdsi.org/workgroups/>
 - OHDSI Weekly Calls/Events: <https://www.ohdsi.org/events/>
+
+*****
+
+
+
