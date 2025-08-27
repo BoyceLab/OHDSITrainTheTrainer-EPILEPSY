@@ -8,8 +8,8 @@ Welcome to the **OHDSI Train-the-Trainer Hub** for oncology. This site hosts the
     * Quarterly refreshers (Module 12)  
     * **Office hours** and **weekly community meetings** for sustained support
 
-**Personas:** vocabulary/terminology experts, statisticians new to OHDSI, SQL-oriented data scientists, and clinicians/residents using **Atlas** for cohort discovery.
+**Personas:** vocabulary/terminology experts, statisticians new to OHDSI, SQL/R-oriented data scientists, and clinicians/residents using **Atlas** for cohort discovery.
 
-**Focus:** oncology (breast & lung), observational epidemiology, decision support using OHDSI tools.
+**Focus:** oncology, observational epidemiology, decision support using OHDSI tools.
 
 → Start with **[Getting Started](getting-started.md)** and **[Personas & Learning Paths](personas.md)**, then proceed through **Curriculum** modules.
