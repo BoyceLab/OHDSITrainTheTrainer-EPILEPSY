@@ -12,14 +12,13 @@
   - Ch. 14: HADES  
   - Ch. 15: OHDSI Community  
   - Ch. 19: Study Steps
-- [OHDSI.org – Who We Are](https://www.ohdsi.org/who-we-are/)
-- [RWD Guide](https://rwd.guide/)
-- [Oncology Extension Documentation](https://ohdsi.github.io/CommonDataModel/oncology.html)
-- Estimation: <https://ohdsi.github.io/TheBookOfOhdsi/PopulationLevelEstimation.html>
-- Prediction: <https://ohdsi.github.io/TheBookOfOhdsi/PatientLevelPrediction.html>
-- **OHDSI Forum**: <https://forums.ohdsi.org/>
-- **OHDSI YouTube**: <https://www.youtube.com/@OHDSI>
-- **EHDEN Academy**: <https://academy.ehden.eu/>
+- [**OHDSI.org – Who We Are**](https://www.ohdsi.org/who-we-are/)
+- [**RWD Guide**](https://rwd.guide/)
+- [**OHDSI Oncology Wiki**] (https://github.com/OHDSI/OncologyWG/wiki)
+- [**Oncology Extension Documentation**](https://ohdsi.github.io/CommonDataModel/oncology.html)
+- [**OHDSI Forum**] <https://forums.ohdsi.org/>
+- [**OHDSI YouTube**] (https://www.youtube.com/@OHDSI)
+- [**EHDEN Academy**] (https://academy.ehden.eu/)
 
 ## Tools & Docs
 - **Atlas**: <https://ohdsi.github.io/Atlas/>
