@@ -6,7 +6,7 @@ This Train-the-Trainer program is a comprehensive two-day “boot camp” aimed 
 Key format features include:
 
 - **Pre-class Preparation**: Participants complete curated pre-readings, watch introductory videos (e.g. an OHDSI overview from leadership), and take short knowledge quizzes before the live sessions.
-- **Two-Day Intensive Boot Camp**: Interactive modules (~60–90 minutes each) combining lectures/demos with team-based exercises that mirror epilepsy research tasks (e.g. building a breast cancer cohort).
+- **Two-Day Intensive Boot Camp**: Interactive modules (~60–90 minutes each) combining lectures/demos with team-based exercises that mirror epilepsy research tasks.
 - **Integrated Multi-Persona Approach**: Sessions are integrated but accommodate different learner personas with examples and optional side exercises:
   - **Vocabulary Experts**: Focus on terminology mapping using OHDSI tools.
   - **Statisticians**: Emphasis on study design validity and minimal jargon.
@@ -44,7 +44,7 @@ Modules span two days, with epilepsy-focused examples and use cases. No formal e
   - CDM tables and relationships
   - Standard vocabularies (SNOMED, LOINC, RxNorm)
   - Use cases and vocabulary search demonstrations
-  - Hands-on vocabulary exercise (HER2+ breast cancer cohort)
+  - Hands-on vocabulary exercise
 - **Persona considerations**: Tailored engagement for technical vs. clinical learners.
 
 ### Module 3: Extract–Transform–Load (ETL) Processes into OMOP
@@ -95,7 +95,7 @@ Modules span two days, with epilepsy-focused examples and use cases. No formal e
 ### Module 8: Advanced Topics and Emerging Trends
 - **Topics**:
   - Advanced querying and ML applications
-  - epilepsy module deep dive
+  - Epilepsy module deep dive
   - Interoperability with FHIR/i2b2
   - Unstructured data and NLP
   - Genomics, imaging, SDOH, wearables
@@ -138,5 +138,4 @@ Modules span two days, with epilepsy-focused examples and use cases. No formal e
 !!! note "Reference Texts"
     - [Book of OHDSI](https://ohdsi.github.io/TheBookOfOhdsi/)  
     - [OHDSI.org](https://www.ohdsi.org/who-we-are/)  
-    - [epilepsy Extension](https://ohdsi.github.io/CommonDataModel/epilepsy.html)  
     - [RWD Guide](https://rwd.guide/)  
