@@ -5,7 +5,7 @@ This curriculum is integrated, with **side exercises** per persona.
 ## Vocabulary / Terminology Experts
 - Goal: apply vocab expertise using OHDSI tools (Athena, Atlas concept sets, Usagi).
 - Focus: Module 2 (vocab), Module 3 (mapping), Module 4 (DQD unmapped concepts).
-- Side exercise: build parent concept sets for breast/lung CA; review HER2 markers.
+- Side exercise: build parent concept sets for epilepsy.
 
 ## Statisticians (new to OHDSI, tool-skeptical)
 - Goal: connect OHDSI constructs to study design & validity.
@@ -20,4 +20,4 @@ This curriculum is integrated, with **side exercises** per persona.
 ## Clinicians / Residents (limited time; Atlas-first)
 - Goal: rapid **cohort discovery** and interpretation.
 - Focus: Module 5 (Atlas), Module 2 (concept search), Module 6 (privacy).
-- Side exercise: build a HER2+ breast cancer cohort, present 2–3 actionable findings.
+- Side exercise: build an epilepsy cohort, present 2–3 actionable findings.
