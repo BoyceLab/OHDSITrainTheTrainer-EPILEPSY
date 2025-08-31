@@ -4,7 +4,7 @@
     This module orients trainers to advanced OHDSI capabilities so they can triage requests and direct learners to the right resources.
 
 ## Overview
-Advanced SQL, ML/PLP, oncology extension awareness, FHIR interop, NLP/unstructured.
+Advanced SQL, ML/PLP, FHIR interop, NLP/unstructured.
 
 ## Objectives
 - Recognize when to go beyond Atlas
@@ -14,7 +14,6 @@ Advanced SQL, ML/PLP, oncology extension awareness, FHIR interop, NLP/unstructur
 ## Resources
 - HADES: <https://ohdsi.github.io/Hades/>
 - PatientLevelPrediction: <https://ohdsi.github.io/PatientLevelPrediction/>
-- Oncology WG: <https://forums.ohdsi.org/tag/oncology>
 
 ## Demos (optional)
 - Complex SQL (overlaps, windows)
