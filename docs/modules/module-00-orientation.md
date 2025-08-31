@@ -11,15 +11,19 @@ Project-specific context, roles, SOPs, and how to get help. Asynchronous pre-wor
 - Locate SOPs, cheat sheets, and escalation routes
 - Complete pre-work quiz
 
-## Pre-Reads
-- Welcome video (leadership) – *(add link)*
-- Project charter & roles – *(add link)*
-- SOPs: “If I have a question about X, I should ask Y” – *(add link)*
-- FAQ & cheat sheet – *(add link)*
+## Pre-Reads / Pre-Viewing
+- Welcome video from leadership *(add link)*  
+- Project charter & roles *(add link)*  
+- SOPs, FAQs, and cheat sheet *(add link)*  
+- [OHDSI Forum – Introduce Yourself](https://forums.ohdsi.org/c/introduce-yourself/)  
+- [OHDSI.org – Who We Are](https://www.ohdsi.org/who-we-are/)  
+
+### Featured Video
+[![Current Practices in Estimation (OHDSI Community Call, Apr 22, 2025)](https://img.youtube.com/vi/FsZ0d1RA9Hc/0.jpg)](https://www.youtube.com/watch?v=FsZ0d1RA9Hc "Current Practices in Estimation (George Hripcsak, Marc Suchard) – OHDSI Community Call, Apr 22, 2025")
 
 ## Key Resources
-- OHDSI Forum: <https://forums.ohdsi.org/>
-- Community/workgroups: <https://ohdsi.org/community/>
+- [RWD Guide](https://rwd.guide/)  
+- [Book of OHDSI](https://ohdsi.github.io/TheBookOfOhdsi/)  
 
 ## Exercise
 Review a real site scenario (e.g., mapping pathology codes) and outline who you'd contact and where you'd look first.
