@@ -1,10 +1,10 @@
 # Module 05 · Implementing Analytics & Observational Epidemiology
 
 !!! info "Program Context"
-    This oncology-focused module integrates shared learning with persona-specific side exercises so clinicians, statisticians, vocab experts, and data scientists can each act as trainers.
+    This epilepsy-focused module integrates shared learning with persona-specific side exercises so clinicians, statisticians, vocab experts, and data scientists can each act as trainers.
 
 ## Overview
-Characterization, estimation, prediction; cohort design in **Atlas** with oncology focus.
+Characterization, estimation, prediction; cohort design in **Atlas** with epilepsy focus.
 
 ## Objectives
 - Build Atlas cohorts and run characterization/incidence
@@ -20,10 +20,10 @@ Characterization, estimation, prediction; cohort design in **Atlas** with oncolo
 - Atlas docs: <https://ohdsi.github.io/Atlas/>
 - HADES index: <https://ohdsi.github.io/Hades/>
 
-## Hands-on (Oncology)
-- Cohort: **HER2+ breast cancer** treated with **trastuzumab** (last 5y)  
+## Hands-on (Epilepsy)
+- Cohort: **DRE treated with AED** (last 5y)  
 - Characterize demographics/comorbidities; simple incidence  
-- Optional: define a **lung cancer** immunotherapy cohort
+- Optional: define a **XXX** XXX cohort
 
 ## Persona Tips
 - **Vocab:** ensure concept set coverage (descendants)  
