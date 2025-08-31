@@ -14,8 +14,6 @@
   - Ch. 19: Study Steps
 - [**OHDSI.org – Who We Are**](https://www.ohdsi.org/who-we-are/)
 - [**RWD Guide**](https://rwd.guide/)
-- [**OHDSI Oncology Wiki**] (https://github.com/OHDSI/OncologyWG/wiki)
-- [**Oncology Extension Documentation**](https://ohdsi.github.io/CommonDataModel/oncology.html)
 - [**OHDSI Forum**] <https://forums.ohdsi.org/>
 - [**OHDSI YouTube**] (https://www.youtube.com/@OHDSI)
 - [**EHDEN Academy**] (https://academy.ehden.eu/)
@@ -27,9 +25,6 @@
 - **Usagi**: <https://github.com/OHDSI/Usagi>
 - **DQD (Data Quality Dashboard)**: <https://github.com/OHDSI/DataQualityDashboard>
 - **HADES (analytics R packages)**: <https://ohdsi.github.io/Hades/>
-
-## Oncology
-- **Dr. Asieh Golozar and Large-Scale Observational Cancer Research Informatics Grand Rounds 10/13/22**: <https://www.youtube.com/watch?v=9-wB6e8Op7k>
 
 ## Governance & Privacy
 - OHDSI community guidance (search forum)
