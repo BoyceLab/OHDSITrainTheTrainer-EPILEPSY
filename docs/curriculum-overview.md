@@ -1,12 +1,12 @@
-# OHDSI Train-the-Trainer Curriculum (Oncology-Focused)
+# OHDSI Train-the-Trainer Curriculum (epilepsy-Focused)
 
 ## Overview and Format
-This Train-the-Trainer program is a comprehensive two-day “boot camp” aimed at preparing trainers to teach the OHDSI (Observational Health Data Sciences and Informatics) framework to oncology researchers and clinicians. The curriculum combines live sessions (with recordings) and hands-on team exercises, supported by pre-course readings and asynchronous e-learning tracks. The emphasis is on real-world problem solving and observational epidemiology fundamentals in an oncology context. Trainers will learn not only OHDSI tools and methods, but also how to effectively teach these concepts to others.  
+This Train-the-Trainer program is a comprehensive two-day “boot camp” aimed at preparing trainers to teach the OHDSI (Observational Health Data Sciences and Informatics) framework to epilepsy researchers and clinicians. The curriculum combines live sessions (with recordings) and hands-on team exercises, supported by pre-course readings and asynchronous e-learning tracks. The emphasis is on real-world problem solving and observational epidemiology fundamentals in an epilepsy context. Trainers will learn not only OHDSI tools and methods, but also how to effectively teach these concepts to others.  
 
 Key format features include:
 
 - **Pre-class Preparation**: Participants complete curated pre-readings, watch introductory videos (e.g. an OHDSI overview from leadership), and take short knowledge quizzes before the live sessions.
-- **Two-Day Intensive Boot Camp**: Interactive modules (~60–90 minutes each) combining lectures/demos with team-based exercises that mirror oncology research tasks (e.g. building a breast cancer cohort).
+- **Two-Day Intensive Boot Camp**: Interactive modules (~60–90 minutes each) combining lectures/demos with team-based exercises that mirror epilepsy research tasks (e.g. building a breast cancer cohort).
 - **Integrated Multi-Persona Approach**: Sessions are integrated but accommodate different learner personas with examples and optional side exercises:
   - **Vocabulary Experts**: Focus on terminology mapping using OHDSI tools.
   - **Statisticians**: Emphasis on study design validity and minimal jargon.
@@ -20,7 +20,7 @@ By the end of the program, participants will master OHDSI’s tools and teaching
 ---
 
 ## Curriculum Modules Overview
-Modules span two days, with oncology-focused examples (e.g. breast/lung cancer cohorts). No formal exams per module; comprehension is tested through exercises and the capstone.
+Modules span two days, with epilepsy-focused examples and use cases. No formal exams per module; comprehension is tested through exercises and the capstone.
 
 ### Module 0: Project Orientation and Onboarding
 - **Format**: Asynchronous pre-work
@@ -35,7 +35,7 @@ Modules span two days, with oncology-focused examples (e.g. breast/lung cancer c
 - **Topics**:
   - OHDSI background & mission
   - What is OMOP CDM and why use it
-  - Real-world impact (e.g. multi-center oncology studies)
+  - Real-world impact (e.g. multi-center epilepsy studies)
   - Overview of training program and resources
 - **Persona considerations**: Different framing for statisticians, vocab experts, data scientists, and clinicians.
 
@@ -45,14 +45,13 @@ Modules span two days, with oncology-focused examples (e.g. breast/lung cancer c
   - Standard vocabularies (SNOMED, LOINC, RxNorm)
   - Use cases and vocabulary search demonstrations
   - Hands-on vocabulary exercise (HER2+ breast cancer cohort)
-  - Oncology extension introduction (Episode tables)
 - **Persona considerations**: Tailored engagement for technical vs. clinical learners.
 
 ### Module 3: Extract–Transform–Load (ETL) Processes into OMOP
 - **Topics**:
   - ETL overview and challenges
   - OHDSI ETL tools (White Rabbit, Rabbit in a Hat, Usagi)
-  - Hands-on mapping exercise with oncology data
+  - Hands-on mapping exercise with epilepsy data
   - Data anomalies and documentation practices
 - **Persona considerations**: Vocabulary experts lead mapping, clinicians gain high-level understanding.
 
@@ -61,7 +60,7 @@ Modules span two days, with oncology-focused examples (e.g. breast/lung cancer c
   - Importance of quality checks
   - Kahn data quality framework
   - OHDSI tools: Data Quality Dashboard (DQD), Achilles
-  - Common issues and oncology examples
+  - Common issues and epilepsy examples
   - Exercise: triage DQD/Achilles outputs
 - **Persona considerations**: Each persona contributes different perspectives on quality.
 
@@ -70,7 +69,7 @@ Modules span two days, with oncology-focused examples (e.g. breast/lung cancer c
   - Study design primer (characterization, estimation, prediction)
   - OHDSI tools: Atlas and HADES
   - Network study workflow
-  - Hands-on cohort building (oncology-focused)
+  - Hands-on cohort building (epilepsy-focused)
   - Observational epidemiology concepts
   - Reproducibility and documentation
 - **Persona considerations**: Exercises emphasize vocabulary, epi, code, or clinical intuition depending on persona.
@@ -96,7 +95,7 @@ Modules span two days, with oncology-focused examples (e.g. breast/lung cancer c
 ### Module 8: Advanced Topics and Emerging Trends
 - **Topics**:
   - Advanced querying and ML applications
-  - Oncology module deep dive
+  - epilepsy module deep dive
   - Interoperability with FHIR/i2b2
   - Unstructured data and NLP
   - Genomics, imaging, SDOH, wearables
@@ -139,5 +138,5 @@ Modules span two days, with oncology-focused examples (e.g. breast/lung cancer c
 !!! note "Reference Texts"
     - [Book of OHDSI](https://ohdsi.github.io/TheBookOfOhdsi/)  
     - [OHDSI.org](https://www.ohdsi.org/who-we-are/)  
-    - [Oncology Extension](https://ohdsi.github.io/CommonDataModel/oncology.html)  
+    - [epilepsy Extension](https://ohdsi.github.io/CommonDataModel/epilepsy.html)  
     - [RWD Guide](https://rwd.guide/)  
